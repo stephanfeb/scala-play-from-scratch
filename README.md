@@ -2,7 +2,7 @@
 
 This is a minimal Scala Play app. In fact, I'm sure it's as simple as it gets.  
 For details on why I put this together, refer to my blog post here :   
-![Scala Play App from Scratch](http://www.hashbangbin.sh/posts/scala-play-app-from-scratch)
+[Scala Play App from Scratch](http://www.hashbangbin.sh/posts/scala-play-app-from-scratch)
 
 Fork it and build something!
 
